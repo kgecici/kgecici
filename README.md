@@ -3,12 +3,11 @@ This is Koray Gecici. I'm a computer engineer, graduated from Istanbul Universit
 
 📚 See my tech profile on [Pluralsight](https://app.pluralsight.com/profile/koray-gecici)
 
-**kgecici/kgecici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - ⚡ Fun fact: My surname means temporary which suits a software engireer in Turkish :) 
 
 <!--
+**kgecici/kgecici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
