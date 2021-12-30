@@ -1,6 +1,7 @@
 ### Hi there 👋
 This is Koray Gecici. I'm a computer engineer, graduated from Istanbul University in 2001, Executive MBA in 2014
 
+📚 See my tech profile on [Hackerrank](https://www.hackerrank.com/kgecici)
 📚 See my tech profile on [Pluralsight](https://app.pluralsight.com/profile/koray-gecici)
 
 - ⚡ Fun fact: My surname means temporary which suits a software engireer in Turkish :) 
