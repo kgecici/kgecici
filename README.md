@@ -7,6 +7,8 @@ This is Koray Gecici. I'm a computer engineer, graduated from Istanbul Universit
 
 - ⚡ Fun fact: My surname means temporary which suits a software engireer in Turkish :) 
 
+![gitartwork](gitartwork.svg)
+
 <!--
 **kgecici/kgecici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
