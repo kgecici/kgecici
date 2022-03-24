@@ -13,7 +13,7 @@ name: gitartwork from a contribution graph
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: kgecici
             # Text on contribution graph 
             text: KORAY
        - uses: jasineri/simple-push-action@v1
